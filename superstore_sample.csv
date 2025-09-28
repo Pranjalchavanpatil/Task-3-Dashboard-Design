@@ -1,0 +1,6 @@
+Order ID,Order Date,Ship Mode,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-2016-152156,2016-11-08,Second Class,Claire Gute,Consumer,United States,Henderson,Kentucky,South,Furniture,Bookcases,261.96,2,0.0,41.9136
+CA-2016-152156,2016-11-08,Second Class,Claire Gute,Consumer,United States,Henderson,Kentucky,South,Furniture,Chairs,731.94,3,0.0,219.582
+CA-2016-138688,2016-06-12,Second Class,Darrin Van Huff,Corporate,United States,Los Angeles,California,West,Office Supplies,Labels,14.62,2,0.0,6.8714
+US-2015-108966,2015-10-11,Standard Class,Sean Miller,Consumer,United States,Fort Lauderdale,Florida,South,Office Supplies,Storage,22.368,2,0.2,2.5164
+US-2015-108966,2015-10-11,Standard Class,Sean Miller,Consumer,United States,Fort Lauderdale,Florida,South,Technology,Appliances,407.976,2,0.2,68.3568
